@@ -1,0 +1,74 @@
+body {
+  background-color: blueviolet;
+}
+header,
+footer {
+  text-align: center;
+  color: white;
+}
+footer {
+  font-size: 1em;
+}
+main {
+  border: 1px solid black;
+  width: 75vw;
+  height: auto;
+  margin: auto;
+  padding: 3%;
+  background-color: azure;
+  border-radius: 5%;
+}
+div#div1 {
+  border: 1px solid black;
+  text-align: center;
+  letter-spacing: 0.1px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+div.cabeçalho {
+  color: red;
+}
+div.imagem {
+  border: 10px solid black;
+  width: 20em;
+  margin: auto;
+}
+div.box {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  text-align: center;
+  width: 30vw;
+  height: 30vh;
+  padding: 20px;
+  margin-top: ;
+}
+
+div.box-1 {
+  border-radius: 5%;
+  background-image: url(https://a-static.mlcdn.com.br/800x560/bandeira-flamengo-modelo-1-1x145m-seriarte-digital/seriartedigital/a072ba204c5f11ec97194201ac185039/34f882653629b08d2576af76d42fca63.jpeg);
+  background-size:;
+}
+div.box-1 li {
+  text-align: left;
+  /* background-color: blue; */
+}
+div.box-2 {
+  border-radius: 5%;
+  background-image: url(https://a-static.mlcdn.com.br/800x560/bandeira-flamengo-modelo-1-1x145m-seriarte-digital/seriartedigital/a072ba204c5f11ec97194201ac185039/34f882653629b08d2576af76d42fca63.jpeg);
+
+}
+div.box-3 {
+  border-radius: 5%;
+  background-image: url(https://a-static.mlcdn.com.br/800x560/bandeira-flamengo-modelo-1-1x145m-seriarte-digital/seriartedigital/a072ba204c5f11ec97194201ac185039/34f882653629b08d2576af76d42fca63.jpeg);
+  
+}
+div#div3 {
+  gap: 1em;
+  display: flex;
+}
+
+img {
+  margin: auto;
+  width: 15em;
+  display: block;
+}
